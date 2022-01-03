@@ -1,2 +1,0 @@
-# starbloodstore.github.io
-Template
